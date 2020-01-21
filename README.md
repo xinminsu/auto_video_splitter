@@ -8,6 +8,10 @@ as xxx-Scenes.csv
 
 to the input of project https://github.com/xinminsu/video-splitter.git as manifest.csv.
 
-USAGE:
+-code download:
+
+git clone --recursive https://github.com/xinminsu/auto_video_splitter.git
+
+-USAGE:
 
 python main.py -i video.mp4
