@@ -24,9 +24,9 @@ def main():
 
     video_fn = os.path.basename(options.input).split(".")[0]
         
-    split_cmd = ["python","PySceneDetect\scenedetect.py", "-i", options.input, "detect-content", "list-scenes"]
+    scenedetect_cmd = ["python","PySceneDetect\scenedetect.py", "-i", options.input, "detect-content", "list-scenes"]
 
-    process = subprocess.Popen(split_cmd,
+    process = subprocess.Popen(scenedetect_cmd,
                                stderr=subprocess.STDOUT,
                                stdout=subprocess.PIPE,
                                shell=True)
