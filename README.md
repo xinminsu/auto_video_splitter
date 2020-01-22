@@ -6,11 +6,11 @@ python scenedetect.py -i d:\video_process\v\zhudi01.mp4 detect-content list-scen
 
 as xxx-Scenes.csv
 
-to the input of project https://github.com/xinminsu/video-splitter.git as manifest.csv.
+to the input of project https://github.com/c0decracker/video-splitter.git as manifest.csv.
 
 -code download:
 
-git clone --recursive https://github.com/c0decracker/auto_video_splitter.git
+git clone --recursive https://github.com/xinminsu/auto_video_splitter.git
 
 -USAGE:
 
