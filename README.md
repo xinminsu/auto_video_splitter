@@ -10,7 +10,7 @@ to the input of project https://github.com/c0decracker/video-splitter.git as man
 
 -code download:
 
-git clone --recursive https://github.com/xinminsu/auto_video_splitter.git
+git clone --recurse-submodules https://github.com/xinminsu/auto_video_splitter.git
 
 -USAGE:
 
