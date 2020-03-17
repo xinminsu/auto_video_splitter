@@ -15,3 +15,5 @@ git clone --recurse-submodules https://github.com/xinminsu/auto_video_splitter.g
 -USAGE:
 
 python main.py -i video.mp4
+
+python videoedit.py
